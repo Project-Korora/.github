@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A student-run project aspiring to build a 3U CubeSat with an electric propulsion system.
+<h4 align="center">A student-run project aspiring to build a 3U CubeSat with an electric propulsion system.</h4>
 
 <p align="center">
   <a href="https://www.python.org/downloads/release/python-3100/">
