@@ -8,7 +8,9 @@
 
 <p align="center">
   <a href="https://www.python.org/downloads/release/python-3100/"><img alt="Static Badge" src="https://img.shields.io/badge/ python-3.10%2B-green"></a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img alt="Static Badge" src="https://img.shields.io/badge/PyCubed-orange"></a>
+  <a href="https://pycubed.org/"><img alt="Static Badge" src="https://img.shields.io/badge/PyCubed-orange"></a>
+  <a href="https://anaconda.org/anaconda/conda"><img alt="Static Badge" src="https://img.shields.io/badge/conda-25.3.0%2B-ligreen"></a>
+
 </p>
 
 ---
