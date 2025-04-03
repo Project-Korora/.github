@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Project-Korora/.github/main/assets/Project-Korora-Logo.png" width="200" alt="Project Kororā"/><br>Project Kororā
 </h3>
 
-<h6 align="center"><a href="https://en.wikipedia.org/wiki/Korora"><i>Kororā oliveri<i/></a></h6>
+<h6 align="center"><a href="https://en.wikipedia.org/wiki/Little_penguin"><i>Kororā<i/></a></h6>
 
 <div align="center">
   <a href="https://www.python.org/downloads/release/python-3100/"><img alt="Static Badge" src="https://img.shields.io/badge/ python-3.10%2B-green"></a>
