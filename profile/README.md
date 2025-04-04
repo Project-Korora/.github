@@ -11,13 +11,6 @@
 
 <br><p align="center">A student-run project aspiring to build a 3U CubeSat with an electric propulsion system.</p>
 
-## Credits
-
-This software uses the following open source packages:
-
-- [PyCubed](https://pycubed.org/)
-- [CircuitPython](https://github.com/adafruit/circuitpython/)
-
 <p align="center">
   <a href="https://www.linkedin.com/company/project-korora/">
     <picture>
