@@ -9,7 +9,7 @@
   <a href="https://pycubed.org/"><img alt="Static Badge" src="https://img.shields.io/badge/PyCubed-orange"></a>
 </div>
 
-<br><p align="center">A student-run project aspiring to build a 3U CubeSat with an electric propulsion system.</p>
+<br><p align="center">A student-run project aspiring to build a 3U CubeSat with an electric propulsion system.</p></br>
 
 <p align="center">
   <a href="https://www.linkedin.com/company/project-korora/">
